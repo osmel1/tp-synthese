@@ -21,4 +21,9 @@
         android:name="com.example.tp_synthese.ui.Books"
         android:label="@string/books"
         tools:layout="@layout/fragment_slideshow" />
+    <activity
+        android:id="@+id/nav_chat"
+        android:name="com.example.tp_synthese.ui.UsersListActivity"
+        android:label="@string/chat"
+        tools:layout="@layout/fragment_slideshow" />
 </navigation>

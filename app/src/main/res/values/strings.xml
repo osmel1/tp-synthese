@@ -15,4 +15,6 @@
     <string name="button_search">Rechercher</string>
     <string name="button_share">Partager</string>
     <string name="books">Books</string>
+    <string name="log_out">Log out</string>
+    <string name="chat">Chat</string>
 </resources>
