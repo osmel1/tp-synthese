@@ -2,6 +2,11 @@
 
 This application is a multi-feature application. It includes a drawer with a page that displays books from the Google Books API, a chatbot powered by the Brainshop API, and a chat application for user interaction.
 
+## Contributors
+* **Supervisor Abdelmajid Bousselham**
+* **Oussama ElHachimi** - [osmel1](https://github.com/osmel1)
+* **Omar Tahri** - [otari2002](https://github.com/otari2002)
+
 ## Installing
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -20,11 +25,6 @@ These instructions will get you a copy of the project up and running on your loc
 * [Google Books API](https://www.googleapis.com/books/v1/volumes) - Used to fetch book data
 * [Brainshop API](http://www.brainshop.ai/) - Used to power the chatbot
 * [Firebase](https://firebase.google.com/) - Used for real-time chat functionality
-
-## Contributors
-
-* **Oussama ElHachimi** - [osmel1](https://github.com/osmel1)
-* **Omar Tahri** - [otari2002](https://github.com/otari2002)
 
 ## Preview
 1. Authentication : <br/>
